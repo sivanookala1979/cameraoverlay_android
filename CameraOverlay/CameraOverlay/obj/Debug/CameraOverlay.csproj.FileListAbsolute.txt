@@ -1,0 +1,10 @@
+C:/Tindall/CameraOverlay/CameraOverlay/CameraOverlay/bin/Debug/CameraOverlay.dll
+C:/Tindall/CameraOverlay/CameraOverlay/CameraOverlay/bin/Debug/CameraOverlay.pdb
+C:/Tindall/CameraOverlay/CameraOverlay/CameraOverlay/obj/Debug/CameraOverlay.dll
+C:/Tindall/CameraOverlay/CameraOverlay/CameraOverlay/obj/Debug/CameraOverlay.pdb
+C:/Tindall/CameraOverlay/CameraOverlay/CameraOverlay/obj/Debug/CameraOverlay.dll.mdb
+C:/Tindall/CameraOverlay/CameraOverlay/CameraOverlay/bin/Debug/CameraOverlay.dll.mdb
+/Users/user127662/Downloads/CameraOverlay/CameraOverlay/CameraOverlay/bin/Debug/CameraOverlay.dll
+/Users/user127662/Downloads/CameraOverlay/CameraOverlay/CameraOverlay/bin/Debug/CameraOverlay.dll.mdb
+/Users/user127662/Downloads/CameraOverlay/CameraOverlay/CameraOverlay/obj/Debug/CameraOverlay.dll
+/Users/user127662/Downloads/CameraOverlay/CameraOverlay/CameraOverlay/obj/Debug/CameraOverlay.dll.mdb
